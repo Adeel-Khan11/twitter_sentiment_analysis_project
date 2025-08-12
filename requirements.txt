@@ -1,0 +1,15 @@
+# Core libraries
+pandas
+numpy
+
+# Model building and evaluation
+scikit-learn
+matplotlib
+seaborn
+
+# NLP preprocessing
+nltk
+textblob
+
+# Optional: visual stuff
+wordcloud
