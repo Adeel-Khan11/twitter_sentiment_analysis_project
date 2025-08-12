@@ -210,3 +210,6 @@ __marimo__/
 *.pkl
 *.model
 *.joblib
+
+# ignore this one big file
+data/data.csv
